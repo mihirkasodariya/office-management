@@ -11,6 +11,9 @@ A full-featured **Office Management System** built with the **MERN stack** (**Mo
 ✅ **File Uploads** – Profile uploads using Multer  
 ✅ **Interactive UI** – Built with Material-UI (MUI)  
 ✅ **Modern API Architecture** – RESTful API with Express & MongoDB  
+![Screenshot 2025-02-04 105804](https://github.com/user-attachments/assets/198cf025-b511-4ad1-a0cc-63cc46ccf9f1)
+
+![Screenshot 2025-02-04 110008](https://github.com/user-attachments/assets/7769b4aa-4ddf-4089-b3c7-651ccf7bc314)
 
 ---
 
